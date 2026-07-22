@@ -3,7 +3,7 @@
 A modern and responsive developer portfolio showcasing my projects, skills, education, and experience.
 
 ## 🚀 Live Demo
-🔗 https://your-portfolio-link.com
+🔗 [https://your-portfolio-link.com](https://rashiportfoliocz.netlify.app/)
 
 ## ✨ Features
 - 👩‍💻 About Me
